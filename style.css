@@ -1,0 +1,10 @@
+.card-container {
+  width: 300px;
+  margin: 50px auto;    /* Social Bubble: centers the card */
+  padding: 20px;         /* Breathing Room: space inside */
+  border: 2px solid #333; /* The Skin boundary */
+  border-radius: 15px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
